@@ -87,3 +87,9 @@
 3-7-15 三个周期天去看一道题，不要看思路，看题意看我的失误直接盲敲代码即可，如果能熟练掌握，移入斩杀BOSS名单里
 
 考试前快速过一遍 然后我想想，需要额外记录每一道错题的时间，然后记录下一次需要看的日期等等即可
+
+
+
+![image-20260526180816474](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20260526180816474.png)
+
+!(C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20260526180816474.png)
